@@ -1,7 +1,8 @@
-# BezierCurvesPy
-Python script for quadratic and cubic Bézier curves
+## BezierCurvesPy
+# Python script for quadratic and cubic Bézier curves.
 
-This simple script allows to generate quadratic and cubic Bézier curves given the coordinates of any points in a 2D plane
+This simple script allows to generate quadratic and cubic Bézier curves given the coordinates of any points in a 2D plane.
 
-![Quadratic Curve](/relative/path/to/Figure_1.jpg?raw=true "Quadratic Curve")
-![Cubic Curve](/relative/path/to/Figure_2.jpg?raw=true "Cubic Curve")
+![Quadratic Curve example](https://user-images.githubusercontent.com/110892353/188737394-6dee1c49-bc84-4a12-9fd6-ddc8a9641b1c.png)
+![Cubic Curve example](https://user-images.githubusercontent.com/110892353/188737431-24b917ea-8f97-4c05-9f8c-708ec8adb563.png)
+
